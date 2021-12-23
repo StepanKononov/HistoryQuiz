@@ -12,4 +12,4 @@
 
 ## А вот сама викторина
 
-![img.png](https://media.giphy.com/media/8YemUihZIddyEFahej/giphy.gif)
+![Alt Text](https://media.giphy.com/media/8YemUihZIddyEFahej/giphy.gif)
