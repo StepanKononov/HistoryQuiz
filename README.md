@@ -9,3 +9,6 @@
 ![img.png](screenshots/img.png)
 
 
+## А вот сама викторина
+
+![img.png](https://media.giphy.com/media/tYtkvq0OnLpWHLOxVs/giphy.gif)
